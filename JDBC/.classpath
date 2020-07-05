@@ -8,9 +8,9 @@
 	</classpathentry>
 	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
 		<attributes>
+			<attribute name="test" value="true"/>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
-			<attribute name="test" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
@@ -23,5 +23,25 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/cucumber-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/cucumber-java-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/cucumber-junit-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/extentreports-2.40.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/gherkin-2.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/selenium-java-3.11.0.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/selenium-server-standalone-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Nikhil Sharma/Documents/All JARS for selenium/testng-6.7.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
