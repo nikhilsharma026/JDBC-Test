@@ -2,6 +2,7 @@ package SQL.JDBC;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
 
 /**
  * Hello world!
@@ -9,8 +10,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
  */
 public class App 
 {
-    public static void main( String[] args )
-    {
+   @Test
+   public void test() {
     	
     	WebDriver driver=new FirefoxDriver();
         System.out.println( "Hello World!" );
